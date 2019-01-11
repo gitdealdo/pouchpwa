@@ -1,0 +1,22 @@
+{
+  "short_name": "Pouch PWA",
+  "name": "Nota de tareas",
+  "theme_color": "#484B4E",
+  "background_color": "#4D4D4D",
+  "display": "standalone",
+  "orientation": "portrait",
+  "icons": [{
+    "src": "img/ic_launcher/res/mipmap-mdpi/ic_launcher.png",
+    "type": "image/png",
+    "sizes": "48x48"
+  }, {
+    "src": "img/ic_launcher/res/mipmap-hdpi/ic_launcher.png",
+    "type": "image/png",
+    "sizes": "96x96"
+  }, {
+    "src": "img/ic_launcher/res/mipmap-hdpi/ic_launcher.png",
+    "type": "image/png",
+    "sizes": "192x192"
+  }],
+  "start_url": "index.html"
+}
